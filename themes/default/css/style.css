@@ -63,7 +63,7 @@ body { display: flex; flex-direction: column; }
 
 /*** BASIC LAYOUT: HEADER ***/
 
-#header { background: #2EAE9B; }
+#header { background: #acacac; }
 
 #title, #logo {
     float: left;
@@ -96,8 +96,8 @@ body { display: flex; flex-direction: column; }
     font-weight: bold;
 }
 
-#nav a, #nav-toggle { color: #afe1da; }
-#nav .active a, #nav a:hover, #nav-toggle:hover { color: #fff; }
+#nav a, #nav-toggle { color: #000000; }
+#nav .active a, #nav a:hover, #nav-toggle:hover { color: rgb(255, 0, 0); }
 
 #nav-toggle { display: none; }
 
@@ -188,6 +188,7 @@ p, td, th, li, dd {
     text-align: justify;
     overflow-wrap: break-word;
     word-wrap: break-word;
+    font-family: 'Darker Grotesque', sans-serif;
 }
 
 p, hr, table, .table-responsive, ol, ul, dl, dd, pre, blockquote, fieldset {
