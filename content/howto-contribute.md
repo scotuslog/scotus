@@ -51,15 +51,38 @@ Open the Github Desktop client and clone this repo scotuslog/scotus.
 
 ![Clone Git Repo](%assets_url%/git-contribute-clone.png)
 
-Make whatever changes you want to make to one of the markdown files in the content directory on your local computer where you cloned this Git repo. 
-
-You can learn more about markdown [here](https://www.markdownguide.org).
-
 ### Create Git Branch
 You will make your changes in your own branch of this Git repo.
 
 ![Create Git Branch](%assets_url%/git-contribute-branch.png)
 
-You can name your branch whatever you want.
+You can name your branch whatever you want, but it's good practice to make it meaningful.
 
 ![Name Git Branch](%assets_url%/git-contribute-name.png)
+
+### Write
+The Git repo has been cloned and you have your branch. Now make whatever changes you want to make to one of the markdown files in the content directory. The files are located in the directory where you cloned the Git repo.
+
+What's markdown? You can learn more about markdown [here](https://www.markdownguide.org).
+
+### Save Your Work
+You made your changes and they look great, so it's time to commit what you wrote to your new Git branch.
+
+Using Github Desktop, you should see something like this.
+
+![Commit to Your Git Branch](%assets_url%/git-contribute-commit.png)
+
+With changes committed to your branch, now you have to publish your new branch to Git. When you initially create a branch locally, it only exists on your local computer, you have to specifically publish your branch. 
+
+But don't worry, you're not publishing to the website when you commit to your branch. It's just committing changes to your Git branch, which will become a pull request.
+
+### Create a Pull Request
+Committing to your Git branch "saves" your changes, but it doesn't publish your changes to the public website. To do that, you need to create a pull request.
+
+What's a pull request? When you submit a pull request, you're asking the owner of the Git repo to accept your changes. Whether your changes will be accepted is based on whether or not your submission followed the style guide.
+
+> If you're really interested in what pull requests are, you can read about pull > request on GitHub [here](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests).
+
+You can use Github Desktop to create a new pull request.
+
+![Create Git Pull Request](%assets_url%/git-contribute-create-pr.png)
