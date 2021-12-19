@@ -1,23 +1,20 @@
 ---
-Title: Contribute
+Title: How To Contribute
 Description: 
 Author: Editor
 Date: 2021-12-15 10:31:03
 Template: index
 Hidden: true
 ---
-# Activate Yourself
+# How To Submit Your Writing and Research
 
-One of us will likely not save this nation from collapsing into a fascist state - a failed democracy - on our own. However, if all of us take just a small amount of time to do something positive politically, we can change the world.
+The process to submit stories and content to this website is quite simple, but for non-technical people, it can be kind of confusing.
 
-Like most people, it can be a struggle to find something that you can do, that won't eat up your entire life, but is also useful. 
+The website is very simple technology. There is no database or admin interface to manage the content and stories. Everything is a text file and managed via Github.com.
 
-That's why I created this website. 
+To submit content, that's done via Github.com.
 
-I was searching for something that I could do that could make a difference in protecting our struggling democracy. I don't have tons of free time, but I do have lots of tech skills and I used to be a reporter. I put both of those skills together and made this website.
-
-## Open Volunteer Positions
-These are volunteer positions. There is no application. You won't be interviewed. The idea is that if you want to work on any of these "jobs" listed, you've got it. The only requirement is that you update this file in Git using a pull request to add your name to the list of assignees for the job. Once your pull request is approved, it's your assignment. It's possible for more than one person to be assigned to a job.
+Git is a version control system used in most software development projects. In this context, Git is being used to manage not just source code, but content. At the end of the day, a text file about Clarence Thomas' life is practically no different than application source code.
 
 * Researcher Early Life through College - Need people to dig into the lives of each justice from birth to graduating from college. If there was a birth announcement in a local paper, can we get a scan of it? Are there any recent interviews with people who discuss the justice's formative years and refer to anyone by name who can be researched or interviewed? What about photos of the justice when they're a kid?
     * John Roberts (Unassigned)
