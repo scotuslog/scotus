@@ -54,3 +54,12 @@ Open the Github Desktop client and clone this repo scotuslog/scotus.
 Make whatever changes you want to make to one of the markdown files in the content directory on your local computer where you cloned this Git repo. 
 
 You can learn more about markdown [here](https://www.markdownguide.org).
+
+### Create Git Branch
+You will make your changes in your own branch of this Git repo.
+
+![Create Git Branch](%assets_url%/git-contribute-branch.png)
+
+You can name your branch whatever you want.
+
+![Name Git Branch](%assets_url%/git-contribute-name.png)
