@@ -26,3 +26,34 @@ These are volunteer positions. There is no application. You won't be interviewed
     * Neil Gorsuch (Unassigned)
     * Samual Alito (Unassigned)
     * Amy Comey Barrett (Unassigned)
+
+The Git workflow used for this website is as follows.
+  1. You create a branch of this Git repo.
+  2. Make your changes in your branch.
+  3. Commit your changes to your Git branch.
+  4. Create a Git pull request using your Git branch.
+  5. Submit your Git pull request to be merged into the main branch and made live.
+
+There are two options for making this all happen. 
+
+## The Easy Way to Contribute Content
+
+## The Advanced Way To Contribute Content
+If you are comfortable with Git, or want don't mind learning, the advanced method of contributing content can work well.
+
+The main advantage to this method is that you can write content in any editor you want, as opposed to using Github.com.
+
+### Download Github Desktop
+If you're a techno wizard, you can use the git command line to do all of this, but if you're a git guru, you don't need read any of these instructions.
+
+For everyone else, [download](https://desktop.github.com/ "Download Github Desktop") and install the Github Desktop Client
+
+[![Download Github Desktop](%assets_url%/git-desktop-icon.svg)](https://desktop.github.com/ "Download Github Desktop")
+
+Open the Github Desktop client and clone this repo scotuslog/scotus.
+
+![Clone Git Repo](%assets_url%/git-contribute-clone.png)
+
+Make whatever changes you want to make to one of the markdown files in the content directory on your local computer where you cloned this Git repo. 
+
+You can learn more about markdown [here](https://www.markdownguide.org).
