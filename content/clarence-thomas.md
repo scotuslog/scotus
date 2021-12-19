@@ -7,5 +7,3 @@ Template: index
 ---
 # Clarence Thomas
 Looking for a volunteer to do some research on Thomas's early life and any connections he had early on that connected him to the elite in America.
-
-Hi.
