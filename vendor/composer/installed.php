@@ -6,7 +6,7 @@
     'aliases' => 
     array (
     ),
-    'reference' => '662db8f5d98cad9f56e14b4bbf0c27a9b3d23720',
+    'reference' => '29d000a2ea4be5fd9c075d964791e820cdf4ccfa',
     'name' => 'picocms/pico-composer',
   ),
   'versions' => 
@@ -54,7 +54,7 @@
       'aliases' => 
       array (
       ),
-      'reference' => '662db8f5d98cad9f56e14b4bbf0c27a9b3d23720',
+      'reference' => '29d000a2ea4be5fd9c075d964791e820cdf4ccfa',
     ),
     'picocms/pico-deprecated' => 
     array (
@@ -94,12 +94,12 @@
     ),
     'twig/twig' => 
     array (
-      'pretty_version' => 'v1.44.4',
-      'version' => '1.44.4.0',
+      'pretty_version' => 'v1.44.6',
+      'version' => '1.44.6.0',
       'aliases' => 
       array (
       ),
-      'reference' => '4d400421528e9fa40caaffcf7824c172526dd99d',
+      'reference' => 'ae39480f010ef88adc7938503c9b02d3baf2f3b3',
     ),
   ),
 );
