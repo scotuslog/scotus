@@ -15,7 +15,10 @@
     {% if current_page %}
         <link rel="canonical" href="{{ current_page.url }}" />
     {% endif %}
-
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Solway:wght@300;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="{{ theme_url }}/css/style.css" type="text/css" />
     <link rel="stylesheet" href="{{ theme_url }}/css/droidsans.css" type="text/css" />
     <link rel="stylesheet" href="{{ theme_url }}/css/fontello.css" type="text/css" />
@@ -70,7 +73,7 @@
                 {% endfor %}
             </div>
             <p>
-                <a href="faq">FAQ</a> <a href="about">About</a> <a href="contribute">Contribute</a>
+                <a href="faq">FAQ</a> &dot; <a href="about">About</a> <a href="contribute">Contribute</a> <a href="howto-contribute">How To Contribute</a> <a href="stylebook">Stylebook</a> <a href="assignments">Writing Assignments</a>
             </p>
         </div>
     </div>

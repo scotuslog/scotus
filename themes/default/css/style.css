@@ -175,7 +175,7 @@ body { display: flex; flex-direction: column; }
 html { font-size: 16px; }
 
 body {
-    font-family: 'Droid Sans', 'Helvetica', 'Arial', sans-serif;
+    font-family: 'Solway', serif;
     font-size: 1rem;
     line-height: 1.6;
     font-variant-ligatures: common-ligatures;
@@ -188,7 +188,7 @@ p, td, th, li, dd {
     text-align: justify;
     overflow-wrap: break-word;
     word-wrap: break-word;
-    font-family: 'Darker Grotesque', sans-serif;
+    font-family: 'Solway', serif;
 }
 
 p, hr, table, .table-responsive, ol, ul, dl, dd, pre, blockquote, fieldset {

@@ -17,12 +17,8 @@ That's why I created this website.
 I was searching for something that I could do that could make a difference in protecting our struggling democracy. I don't have tons of free time, but I do have lots of tech skills and I used to be a reporter. I put both of those skills together and made this website.
 
 ## Open Volunteer Positions
-These are volunteer positions. There is no application. You won't be interviewed. The idea is that if you want to work on any of these "jobs" listed, you've got it. The only requirement is that you update this file in Git using a pull request to add your name to the list of assignees for the job. Once your pull request is approved, it's your assignment. It's possible for more than one person to be assigned to a job.
+These are volunteer positions. There is no application. You won't be interviewed. The idea is that if you want to work on any of the available assignments, you've got the job. 
 
-* Researcher Early Life through College - Need people to dig into the lives of each justice from birth to graduating from college. If there was a birth announcement in a local paper, can we get a scan of it? Are there any recent interviews with people who discuss the justice's formative years and refer to anyone by name who can be researched or interviewed? What about photos of the justice when they're a kid?
-    * John Roberts (Unassigned)
-    * Clarence Thomas (Unassigned)
-    * Brett Kavanaugh (Unassigned)
-    * Neil Gorsuch (Unassigned)
-    * Samual Alito (Unassigned)
-    * Amy Comey Barrett (Unassigned)
+The only requirement is that you demonstrate that you can properly update this website's source repository by assigning an assignment to yourself.
+
+You can view the current available assignments [here](assignments).
