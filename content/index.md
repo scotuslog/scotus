@@ -42,3 +42,18 @@ The first Supreme Court nominated by President George Washington had five justic
 * [Associate Justice Neil Gorsuch](neil-gorsuch)
 * [Associate Justice Brett Kavanaugh](brett-kavanaugh)
 * [Associate Justice Amy Coney Barrett](amy-coney-barrett)
+
+## Hard Right Turn
+When Scalia died and Mitch McConnell refused to seat President Obama's supreme court nominee Merrick Garland, liberals lost the court for at least a generation.
+
+That was before Hillary Clinton didn't become president January 2017. Donald John Trump became president instead, with the help of Vladimir Putin. Trump filled two more seats, one of which belonged to Ruth Bader Ginsburg.
+
+As the court sits today, it's a 6 to 3 court heavily favoring conservatives. As a tool for progressives, the Supreme Court is no longer useful. While some of the left argue the court should be expanded beyond nine justices, it is inconceivable to imagine the Democratic party pulling off such an accomplishment.
+
+Even before Amy Coney Barrett sat in Ginsburg's chair, the Supreme Court was captured by the right. 
+
+[Back in 2019](https://progressive.org/magazine/supremely-conservative-blum/), Michael Avery, professor emeritus of law at Suffolk University Law School in Boston, [said](https://progressive.org/magazine/supremely-conservative-blum/), "With the confirmation of Kavanaugh last October, we now have five current or former members of the Federalist Society on the Supreme Court. If Trump is reelected, there probably will be a sixth at some point."
+
+Trump didn't get reelected but Ginsburg tragically passed away.
+
+It's unclear how this democracy persists after losing the Supreme Court. Already the court has [allowed states to nullify federal law](https://www.alternet.org/2021/12/john-roberts-texas-aboriton/?share_id=6823783), despite objections by Chief Justice Roberts.
