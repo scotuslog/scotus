@@ -14,9 +14,11 @@ Racism is not often seen as radical, but Roberts' radical views on racism came i
 
 According to [the Bangor Daily News in Maine](https://bangordailynews.com/2016/10/24/news/us-supreme-court-chief-justice-john-roberts-buys-home-on-maine-island/), in 2016, John Roberts and his wife purchased a vacation property on an island in Maine.
 
-The Robertses purchased the 1500 square foot Hupper Island on October 7, 2016, the Bangor Daily News reported at the time. 
+The Robertses purchased the 1500 square foot Hupper Island home on October 7, 2016, the Bangor Daily News reported at the time. 
 
-This second home, reporter Stephen Betts said was larger than the couple's first home. This new home was purchased from Stephen Thomas and Evelyn Blum. Thomas, Betts reported was the host of "This Old House." And interestingly, this isn't the first home that Thomas has sold to the Robertses. In 2006, the Robertses bought the neighboring property to this new home purchase.
+This second home, reporter Stephen Betts said was larger than the couple's first home. 
+
+This new home was purchased from Stephen Thomas and Evelyn Blum. Thomas, Betts reported was the host of "This Old House." And interestingly, this isn't the first home that Thomas has sold to the Robertses. In 2006, the Robertses bought the neighboring property to this new home purchase.
 
 The chief justice makes a total annual salary of about $277,700.
 
