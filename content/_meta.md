@@ -1,6 +1,6 @@
 ---
 Logo: %assets_url%/scotus-seal-bw.png
-Tagline: Knowledge is power.
+Tagline: Supreme Court of the United States
 Social:
     - title: Visit us on GitHub
       url: https://github.com/scotuslog/scotus
