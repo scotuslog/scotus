@@ -12,7 +12,7 @@ The Democratic Party cost us the Supreme Court. When Scalia died and President O
 The theft of Scalia's seat went on to let Donald Trump appoint three Supreme Court justices. The Supreme Court is effectively gone for at least a generation.
 
 ## Packing the Court
-One solution to Trump's evangelical Supreme Court justices is to expand the court to more than nine justices. President Franklin Roosevelt tried to do this with the [https://en.wikipedia.org/wiki/Judicial_Procedures_Reform_Bill_of_1937](Judicial Procedures Reform Bill of 1937).
+One solution to Trump's evangelical Supreme Court justices is to expand the court to more than nine justices. President Franklin Roosevelt tried to do this with the [Judicial Procedures Reform Bill of 1937](https://en.wikipedia.org/wiki/Judicial_Procedures_Reform_Bill_of_1937).
 
 Roosevelt was unsuccessful. It's difficult to imagine Biden and the current class of Democrats in DC pulling off something as bold as expanding the Supreme Court. Just recently, Democrats struggled to get a simple debt ceiling increase passed.
 
