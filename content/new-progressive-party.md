@@ -19,7 +19,7 @@ Roosevelt was unsuccessful. It's difficult to imagine Biden and the current clas
 ## A New Progressive Party
 Another solution to our Supreme Court problem, and really many of our current political problems can be solved with a New Progressive Party.
 
-It's true that no one has ever and will never create a viable political party not named Democratic or Republican, even though it's actually happened a bunch of times, but hear me out.
+It's true that no one has ever, and will never create a viable political party not named Democratic or Republican, even though it's actually happened a bunch of times, but hear me out.
 
 The New Progressive Party doesn't have to win a majority of the House or the Senate, it just needs to be successful enough scare the Democrats. 
 
