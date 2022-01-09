@@ -39,4 +39,4 @@ This won't happen. No one will want to be seen as challenging the Democratic Par
 
 Democrats and Republicans have built a system in which they are in complete control. They've boxed out all of the competition. So in a practical sense, it is impossible to create a viable alternative to the Democratic and Republican parties.
 
-But it is possible to win US House seats with enough money and some exciting candidates. 
+Or is it? 
