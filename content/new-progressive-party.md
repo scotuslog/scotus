@@ -4,6 +4,7 @@ Description: Democrats are too comfortable
 Author: Editor
 Date: 2021-12-15 10:31:03
 Template: index
+Hidden: true
 ---
 # The Left Needs a New Progressive Party
 The Democratic Party cost us the Supreme Court. When Scalia died and President Obama nominated Merrick Garland, they let Mitch McConnell steal that seat. McConnell's "argument" that Obama can't appoint a Supreme Court justice one year from the election was obvious bullshit. Sure, some Democrats pissed and moaned a bit about how mean McConnell is, but there was no full-throated, concerted, shout down of this authoritarian crap McConnell was slinging. Democrats were happy to just let the seat go. 
