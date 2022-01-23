@@ -7,6 +7,8 @@ Template: index
 ---
 # Stephen Breyer
 ![Stephen Breyer - Associate Justice of the Supreme Court](%assets_url%/stephen-breyer.jpg)
+
+
 Nominated by President Bill Clinton, Stephen Breyer has been an associate Supreme Court justice since 1994.
 
 Breyer is one of only three liberal justices on the Supreme Court. The 83-year-old Californian was nominated by President Jimmy Carter in 1980 to be judge on the United States Court of Appeals of the First Circuit.
