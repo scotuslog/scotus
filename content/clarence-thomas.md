@@ -12,7 +12,7 @@ Since October 23, 1991, Clarence Thomas has been a United States Supreme Court J
 
 That was a critical seat for the Republicans to be able to fill. Since Thomas, the court has been forever turning to the right. 
 
-Of the nine justices seated today, Democrats have appointed only three. What makes that even more shocking is that the Republican party has only won the popular vote for president once since 1988. And that one time was 2004, and predicated on Bush not winning a majority in 2000 and being appointed by the Supreme Court in Bush v. Gore.
+Of the nine justices seated today, Democrats have appointed only three. What makes that even more shocking is that the Republican party has only won the popular vote for president once since 1988. And that one time was 2004, predicated on Bush not winning a majority in 2000, and then being appointed by the Supreme Court in Bush v. Gore. That was when the GOP realized that they really could steal the White House.
 
 Anyone older than 45 remembers that Bush's nomination of Thomas was not a smooth one. Anita Hill worked for Thomas and said that Thomas was sexually inappropriate with her. Even then-Senator Joe Biden got in on the belittling of Ms. Hill. It was a particularly sad period for this nation in what would be decades filled with sad periods.
 
