@@ -67,7 +67,7 @@ Ginni Lamp grew up in a very far right-wing family in Nebraska. Her parents were
 
 Whatever ones opinions are of Goldwater, he was the first of what would become the modern conservative. It was after Goldwater when the GOP slid harder to the right, embraced the so-called "southern strategy," and diviseness as a means to "win." That's not to say Goldwater caused this to all happen, but he would become an early adopter of what Reagan would eventually do successfully in 1980.
 
-Needlesstosay, in the 1960s, Goldwater's people were often goofballs. 
+Naturally, in the 1960s, Goldwater often attracted a lot of goofballs. 
 
 [Mayer spoke with a neighbor](https://www.newyorker.com/magazine/2022/01/31/is-ginni-thomas-a-threat-to-the-supreme-court) who grew up across the street from the Lamps.
 
