@@ -2,7 +2,7 @@
 Title: Clarence Thomas
 Description: The life of Clarence Thomas
 Author: Editor
-Date: 2021-12-15 10:31:03
+Date: 2022-01-30 10:31:03
 Template: index
 ---
 # Clarence Thomas
@@ -63,9 +63,9 @@ Clarence and Ginni Thomas are way beyond "appearing" to look corrupt. He has fai
 It would be interesting to know how many times Thomas has ruled in an unexpected way on a case with political ramifications. 
 
 ## Ginni Thomas Early
-Ginni Lamp grew up in a very far right family in Nebraska. Her parents were politically active in the Barry Goldwater campaign. In the New Yorker [Jane Mayer wrote](https://www.newyorker.com/magazine/2022/01/31/is-ginni-thomas-a-threat-to-the-supreme-court) that Ginni's father was housing developer in and around Omaha. Mayer reported that her parents formed the backbone of the Goldwater campaign in Nebraska.
+Ginni Lamp grew up in a very far right-wing family in Nebraska. Her parents were politically active in the Barry Goldwater campaign. In the New Yorker [Jane Mayer wrote](https://www.newyorker.com/magazine/2022/01/31/is-ginni-thomas-a-threat-to-the-supreme-court) that Ginni's father was a housing developer in and around Omaha. Mayer reported that her parents formed the "backbone" of the Goldwater campaign in Nebraska.
 
-Whatever ones opinions are of Goldwater he was the first of what would become the modern conservative. It was after Goldwater when the GOP slid harder to the right, embraced the so-called "southern strategy." That's not to say Goldwater caused this to all happen, but he would become an early adopter of what Reagan would eventually do in 1980.
+Whatever ones opinions are of Goldwater, he was the first of what would become the modern conservative. It was after Goldwater when the GOP slid harder to the right, embraced the so-called "southern strategy," and diviseness as a means to "win." That's not to say Goldwater caused this to all happen, but he would become an early adopter of what Reagan would eventually do successfully in 1980.
 
 Needlesstosay, in the 1960s, Goldwater's people were often goofballs. 
 
