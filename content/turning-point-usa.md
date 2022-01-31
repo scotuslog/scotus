@@ -7,7 +7,7 @@ Template: index
 Hidden: true
 ---
 # Turning Point USA
-Founded in 2012, Turning Point USA is a right-wing political non-profit founded by this guy Charlie Kirk.
+Founded in 2012, Turning Point USA is a right-wing political non-profit founded by a guy named Charlie Kirk.
 
 I'm pretty sure I've blocked him on Twitter, but he's a regular right-wing crank, or crackpot if you will. 
 
