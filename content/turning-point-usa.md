@@ -17,6 +17,10 @@ In 2019, Kirk reported to the IRS pulling down nearly $300,000 a year as the Pre
 
 ![Turning Point USA 2019 Tax 990 Summary](%assets_url%/turning-point-usa-2019-taxes.png)
 
+Kirk started Turning Point USA with Bill Montgomery. Montgomery spent his entire career in marketing, but when he retired, he became and formed this organization with Kirk. Montgomery was Kirk's mentor, having met when Kirk was 18. Since Montgomery spent his professional life in marketing, one can presume he taught Kirk a lot about marketing.
+
+But that relationship came to end on July 28, 2020 when Montgomery died from covid-19.
+
 Turning Point USA started out building chapters on college campuses that promoted Kirk (who was 18 at the time) and Kirk's "ideas" he called a "conservatarian" brand of capitalism.
 
 ## Sources
