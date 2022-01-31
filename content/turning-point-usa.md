@@ -11,7 +11,7 @@ Founded in 2012, Turning Point USA is a right-wing political non-profit founded 
 
 I'm pretty sure I've blocked him on Twitter, but he's a regular right-wing crank, or crackpot if you will. 
 
-Kirk is like 28 years now, and ten years ago he figured out how to get paid to be an a-hole. I don't doubt that Kirk believes his own right-wing bullshit, but his key attribute other rightwingers is that he's figured out how to make a living off his bullshit - not everyone can do that.
+Kirk is like 28 years now, and ten years ago he figured out how to get paid to be an a-hole. I don't doubt that Kirk believes his own right-wing bullshit, but his key attribute that sets him apart from other rightwingers is that he's figured out how to make a living off his bullshit - not everyone can do that.
 
 In 2019, Kirk reported to the IRS pulling down nearly $300,000 a year as the President and CEO of Turning Point USA. While $300,000 a year isn't an insane amount of money, one can assume this isn't Kirk's only source of income.
 
