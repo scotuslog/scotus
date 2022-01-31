@@ -85,6 +85,7 @@ All of this history is derived [from the Jane Mayer story in the New Yorker](htt
 
 ### Sources
 [Is Ginni Thomas a Threat to the Supreme Court?](https://www.newyorker.com/magazine/2022/01/31/is-ginni-thomas-a-threat-to-the-supreme-court). New Yorker. Jan. 21, 2022.
+[Ten Years of Turning Point USA](https://politicalresearch.org/2022/01/28/ten-years-turning-point-usa). Political Research Associates. Jan. 28, 2022.
 
 This content was last updated on January 30, 2022. 
 
