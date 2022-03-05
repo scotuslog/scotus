@@ -21,5 +21,7 @@ Milner doesn't seem to be considered an oligarch, according the information gath
 Milner and Usmanov's early investment in Facebook christened Milner tech investor royalty. That's how it works. Throw a bunch of money around and Americans won't 
 care who you are.
 
+Money makes [Milner look legit](https://www.forbes.com/sites/clareoconnor/2011/03/31/inside-yuri-milners-100-million-mansion/?sh=2929a2c8f189), however, that legitimacy was funded by Usmanov.
+
 ## Education
 Bachelor of Arts/Science, Moscow State University; Drop Out, University of Pennsylvania, The Wharton School
