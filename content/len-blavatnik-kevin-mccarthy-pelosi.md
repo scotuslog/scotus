@@ -1,6 +1,6 @@
 ---
-Title: Kevin McCarthy Russian Oligarch Len Blavatnik Donations
-Description: Minority leader McCarthy is raking in the oligarch money
+Title: Russian Oligarch Len Blavatnik Donates to Dems Too
+Description: Speaker Nancy Pelosi pulled in $50,000 in one shot from Blavatnik
 Author: Editor
 Date: 2022-03-18 10:31:03
 Template: index
