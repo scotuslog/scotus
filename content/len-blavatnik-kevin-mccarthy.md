@@ -26,3 +26,9 @@ The DCCC can't be left out on the fun. In June 2021, Blavatnik was kind enough t
 ![Len Blavatnik DCCC Donations June 2021](%assets_url%/dccc-blavatnik-june2021.png)
 
 ![Len Blavatnik DCCC Donations May 2021](%assets_url%/dccc-blavatnik-may2021.png)
+
+House Speaker Nancy Pelosi can do more than count votes, she can count money. Also in May 2021, Blavatnik donated $50,000 to the "Nancy Pelosi Victory Fund."
+
+![Len Blavatnik Pelosi Donations May 2021](%assets_url%/pelosi-blavatnik-donations.png)
+
+This was just 2021. Blavatnick has been donating for years to American politicians.
