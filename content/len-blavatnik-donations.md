@@ -1,6 +1,6 @@
 ---
-Title: Russian Oligarch Len Blavatnik Donates to Dems Too
-Description: Speaker Nancy Pelosi pulled in $50,000 in one shot from Blavatnik
+Title: Russian Oligarch Len Blavatnik Political Contributions
+Description: Speaker Nancy Pelosi pulled in $50,000 in one shot from Blavatnik in 2021
 Author: Editor
 Date: 2022-03-18 10:31:03
 Template: page
