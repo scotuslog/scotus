@@ -19,11 +19,13 @@ Blavatnik's "employer" according to the Federal Election Commission is a busines
 
 ![Access Industries](%assets_url%/access-industries.png)
 
-It's not just Republicans either. Last year, Senate Majority Leader Chuck Schumer pulled in more than $15,000 from Blavatnik.
+# Democrats Love that Russian Oligarch Money Too
+
+In 2021, Senate Majority Leader Chuck Schumer pulled in more than $15,000 from Blavatnik.
 
 ![Len Blavatnik Schumer Donations](%assets_url%/schumer-blavatnik-donations.png)
 
-In June 2021, the Democratic Congressional Campaign Committee snagged over $127,000 from Blavatnik.
+In June 2021, the Democratic Congressional Campaign Committee snagged over $127,000.
 
 ![Len Blavatnik DCCC Donations June 2021](%assets_url%/dccc-blavatnik-june2021.png)
 
