@@ -16,7 +16,7 @@ Also on November 23, 2021, Blavatnik donated more than $239,000 to the National 
 
 ![Len Blavatnik NRCC Donations](%assets_url%/nrcc-blavatnik-donations.png)
 
-Blavatnik's "employer" according to the Federal Election Commission is a business called Access Industries. It's a company which apparently buys access to politicians? It's stated purpose is to find investments for investing, and run by "global industrialist and philanthropist Len Blavatnick.
+Blavatnik's "employer" according to the Federal Election Commission is a business called Access Industries. It's a company which apparently buys access to politicians? It's stated purpose is to find investments for investing, and run by "global industrialist and philanthropist" Len Blavatnick.
 
 ![Access Industries](%assets_url%/access-industries.png)
 
