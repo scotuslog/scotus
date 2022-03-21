@@ -11,23 +11,25 @@ On November 23, 2021, Russian Oligarch Len Blavatnik donated more than $255,000 
 
 ![Len Blavatnik McCarthy Donations](%assets_url%/mccarthy-donations.png)
 
-The national Republican party wasn't left out. Also on November 23, 2021, Blavatnik donated more than $239,000 to the National Republican Congressional Committee.
+Also on November 23, 2021, Blavatnik donated more than $239,000 to the National Republican Congressional Committee.
 
 ![Len Blavatnik NRCC Donations](%assets_url%/nrcc-blavatnik-donations.png)
 
-Blavatnick's "employer" is called Access Industries. It's a company which apparently buys access to politicians?
+Blavatnik's "employer" according to the Federal Election Commission is a business called Access Industries. It's a company which apparently buys access to politicians? It's stated purpose is to find investments for investing, and run by "global industrialist and philanthropist Len Blavatnick.
 
-It's not just Republicans either. Also in November 2021, Blavatnik donated $10,800 to the "Friends of Schumer." Then in July 2021, the Russian oligarch donated $5,000 to Schumer.
+![Access Industries](%assets_url%/access-industries.png)
+
+It's not just Republicans either. Last year, Senate Majority Leader Chuck Schumer pulled in more than $15,000 from Blavatnik.
 
 ![Len Blavatnik Schumer Donations](%assets_url%/schumer-blavatnik-donations.png)
 
-The DCCC can't be left out on the fun. In June 2021, Blavatnik was kind enough to donated $127,750 to the Democratic Congressional Campaign Committee.
+In June 2021, the Democratic Congressional Campaign Committee snagged over $127,000 from Blavatnik.
 
 ![Len Blavatnik DCCC Donations June 2021](%assets_url%/dccc-blavatnik-june2021.png)
 
 ![Len Blavatnik DCCC Donations May 2021](%assets_url%/dccc-blavatnik-may2021.png)
 
-House Speaker Nancy Pelosi can do more than count votes, she can count money. Also in May 2021, Blavatnik donated $50,000 to the "Nancy Pelosi Victory Fund."
+House Speaker Nancy Pelosi can do more than count votes, she can count money. In May 2021, Blavatnik donated $50,000 to the "Nancy Pelosi Victory Fund."
 
 ![Len Blavatnik Pelosi Donations May 2021](%assets_url%/pelosi-blavatnik-donations.png)
 
