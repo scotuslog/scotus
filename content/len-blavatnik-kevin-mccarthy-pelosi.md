@@ -3,7 +3,7 @@ Title: Russian Oligarch Len Blavatnik Donates to Dems Too
 Description: Speaker Nancy Pelosi pulled in $50,000 in one shot from Blavatnik
 Author: Editor
 Date: 2022-03-18 10:31:03
-Template: index
+Template: blog
 Hidden: true
 ---
 # Len Blavatnik Really Likes Republican Kevin McCarthy
@@ -31,4 +31,8 @@ House Speaker Nancy Pelosi can do more than count votes, she can count money. Al
 
 ![Len Blavatnik Pelosi Donations May 2021](%assets_url%/pelosi-blavatnik-donations.png)
 
-This was just 2021. Blavatnick has been donating for years to American politicians.
+This was just 2021. Blavatnik has been donating for years to American politicians.
+
+## References
+[FEC Filing Leonard Blavatnik](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=BLAVATNIK%2C+LEONARD) Accessed March 20, 2022
+
