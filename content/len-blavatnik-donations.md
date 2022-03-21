@@ -36,7 +36,7 @@ House Speaker Nancy Pelosi can do more than count votes, she can count money. In
 
 ![Len Blavatnik Pelosi Donations May 2021](%assets_url%/pelosi-blavatnik-donations.png)
 
-This was just 2021. Blavatnik has been donating for years to American politicians. In fact, he has given the DCCC $396,700 since 2013. However, the bulk of the contributions began in 2018. In the last 4 years, Blavatnik has donated $331,900 to the DCCC.
+This was just 2021. Blavatnik has been donating for years to American politicians. In fact, he has given the DCCC $396,700 since 2013. However, the bulk of the contributions have been since 2018. In the last 4 years, Blavatnik has donated $331,900 to the DCCC.
 
 ![Len Blavatnick DCCC Donations](%assets_url%/blavatnik-dccc-donations.png)
 
