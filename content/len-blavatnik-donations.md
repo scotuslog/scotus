@@ -4,6 +4,7 @@ Description: Speaker Nancy Pelosi pulled in $50,000 in one shot from Blavatnik i
 Author: Editor
 Date: 2022-03-18 10:31:03
 Template: page
+Image: %assets_url%/mccarthy-donations.png
 Hidden: true
 ---
 # Len Blavatnik Really Likes Republican Kevin McCarthy
@@ -35,8 +36,13 @@ House Speaker Nancy Pelosi can do more than count votes, she can count money. In
 
 ![Len Blavatnik Pelosi Donations May 2021](%assets_url%/pelosi-blavatnik-donations.png)
 
-This was just 2021. Blavatnik has been donating for years to American politicians.
+This was just 2021. Blavatnik has been donating for years to American politicians. In fact, he has given the DCCC $396,700 since 2013. However, the bulk of the contributions began in 2018. In the last 4 years, Blavatnik has donated $331,900 to the DCCC.
+
+![Len Blavatnick DCCC Donations](%assets_url%/blavatnik-dccc-donations.png)
 
 ## References
 [FEC Filing Leonard Blavatnik](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=BLAVATNIK%2C+LEONARD) Accessed March 20, 2022
+
+Originally Published March 20, 2022 16:20
+Last Updated March 20, 2022 20:51
 
