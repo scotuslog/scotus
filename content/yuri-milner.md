@@ -16,7 +16,7 @@ has made as a founding partner in DST Global venture capital firm.
 
 Forbes pegs Milner's net worth at $7.3 billion.
 
-Milner doesn't seem to be considered an oligarch, according the information gathered about him so far. Milner's firm DST Global was seeded with money from Russian oligarch Alisher Usmanov. 
+Milner doesn't appear to be an oligarch, but that seems like smoke and mirrors. Milner's firm DST Global was seeded with money from Russian oligarch Alisher Usmanov. 
 
 Milner and Usmanov's early investment in Facebook christened Milner tech investor royalty. That's how it works. Throw a bunch of money around and Americans won't 
 care who you are.
