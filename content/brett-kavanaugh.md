@@ -6,7 +6,7 @@ Date: 2021-12-15 10:31:03
 Template: index
 ---
 # Brett Kavanaugh
-Brett Kavanaugh was confirmed 
+Brett Kavanaugh was confirmed in 2018. He was one of Donald Trump's three Supreme Court nominees during his four year one term.
 
 ## Maryland
 According to [the public record](%assets_url%/kavanaugh-deed-of-trust.pdf), Kavanaugh owns a home in Chevy Chase, Maryland.
