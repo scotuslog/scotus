@@ -9,7 +9,7 @@ Template: index
 Brett Kavanaugh was confirmed 
 
 ## Maryland
-According to [the public record](%assets/kavanaugh-deed-of-trust.pdf), Kavanaugh owns a home in Chevy Chase, Maryland.
+According to [the public record](%assets_url%/kavanaugh-deed-of-trust.pdf), Kavanaugh owns a home in Chevy Chase, Maryland.
 
 Located in the John Frank Ellis sub-division of Otterbourne community.
 
