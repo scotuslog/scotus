@@ -6,7 +6,7 @@ Date: 2021-12-15 10:31:03
 Template: index
 ---
 # Brett Kavanaugh
-Brett Kavanaugh was confirmed in 2018. He was one of Donald Trump's three Supreme Court nominees during his four year one term.
+Brett Kavanaugh was confirmed in 2018. He was one of Donald Trump's three Supreme Court nominees during his one four year term.
 
 ## Maryland
 According to [the public record](%assets_url%/kavanaugh-deed-of-trust.pdf), Kavanaugh owns a home in Chevy Chase, Maryland.
@@ -23,5 +23,3 @@ This is what Kavanaugh's home looks like in the Zillow map view. They work extra
 hard to protect the powerful.
 
 ![Zillow Map View of Kavanaugh Home Blurred Out](%assets_url%/kavanaugh-zillow.png)
-
-Are you a writer? [Join the Trello board and pick up one of the writing assignments](https://trello.com/invite/b/hqZVpPyw/806abc65e602a810e5c44e0c7729ed46/writing-assignments).
