@@ -7,4 +7,4 @@ Template: blank
 Hidden: true
 ---
 # Welcome to a Website
-This is a website.
+This website is part of the underground. The underground of what, well, that is unexplainable.
