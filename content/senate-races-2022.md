@@ -3,7 +3,7 @@ Title: Democrats Need a Miracle This November
 Description: Democrats need 9 senate seats, they might get 3.
 Author: Editor
 Date: 2022-06-24 19:31:03
-Template: index
+Template: blank
 Hidden: true
 ---
 # US Senate Races 2022
