@@ -1,7 +1,7 @@
 ---
 Title: I won't vote for Joe
 Description: Biden has failed too often
-Image: assets/biden-mbs-fist-bump.png
+Image: (%assets_url%/biden-mbs-fist-bump.png)
 Author: Editor
 Date: 2022-06-24 19:31:03
 Template: blank
