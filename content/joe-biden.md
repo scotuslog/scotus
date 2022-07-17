@@ -1,6 +1,6 @@
 ---
-Title: I won't vote for Joe
-Description: Biden has failed too often
+Title: Joe Biden 2024?
+Description: Can he win with a demoralized and rejected base of activists?
 Image: https://1200tech.com/assets/biden-mbs-fist-bump.png
 Author: Editor
 Date: 2022-06-24 19:31:03
