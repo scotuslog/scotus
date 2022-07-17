@@ -9,7 +9,7 @@ Hidden: true
 # Joe Biden Needs to Retire
 It's hard for Democrats, and so-called moderates to choke down this fact, but Joe Biden is not doing well as president. That was true even before Biden fist-bumped the Saudi Crown Prince who brutally executed an American journalist.
 
-![President Joe Biden fist-bumps Saudi Crown Prince](%assets_url%/biden-mbs-first-bump.png)
+![President Joe Biden fist-bumps Saudi Crown Prince](%assets_url%/biden-mbs-fist-bump.png)
 
 It is [a fact](https://www.cnn.com/2021/02/26/politics/biden-administration-khashoggi-report/index.html) that Saudi Crown Prince Mohammed bin Salman executed Washington Post Jamal Khashoggi in Istanbul in 2018. Khashoggi was critical of the Saudi royal family and opposed the war in Yemen. 
 
@@ -24,7 +24,7 @@ Biden has been saying for months that the pandemic is over. It is not over, but 
 
 And what was that about when Biden shook hands with someone who wasn't there?
 
-![President Joe Biden shakes hands with no one](%assets_url%/biden-shakes-hands-nonone.png)
+![President Joe Biden shakes hands with no one](%assets_url%/biden-shakes-hands-noone.png)
 
 ## 2024 or Before
 At the very least, Biden can not run for reelection. He will lose against the likely GOP nominee - DeSantis. 
