@@ -7,7 +7,7 @@ Template: blank
 Hidden: true
 ---
 # Joe Biden Needs to Retire
-It's hard for Democrats, and so-called moderates to choke down this fact, but Joe Biden is not doing well as president. That was true even before Biden fist-bumped the Saudi Crown Prince - man who brutally executed an American journalist.
+It's hard for Democrats, and so-called moderates to choke down this fact, but Joe Biden is not doing well as president. That was true even before Biden fist-bumped the Saudi Crown Prince - a man who brutally executed an American journalist.
 
 ![President Joe Biden fist-bumps Saudi Crown Prince](%assets_url%/biden-mbs-fist-bump.png)
 
